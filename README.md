@@ -1,6 +1,6 @@
-# Assessment 2 - Biruh Tesfahun (UGR-8028-15, Section 3)
+## Assessment 2 - Biruh Tesfahun (UGR-8028-15, Section 3)
 
-**Live Link**: [View Project](https://bruhtes.github.io/Assesment-2_Biruh-Tesfahun_UGR-8028-15_Section-3/)
+# **Live Link**: [View Project](https://bruhtes.github.io/Assesment-2_Biruh-Tesfahun_UGR-8028-15_Section-3/)
 
 
 ## About the Project
